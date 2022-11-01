@@ -15,3 +15,8 @@ https://pypi.org/project/psutil/
 * Provides cryptographic recipes (symmetric encryption) and primitives
 * https://cryptography.io/en/latest/
 * https://pypi.org/project/cryptography
+
+## YARA
+
+* https://yara.readthedocs.io/en/stable/yarapython.html
+* https://pypi.org/project/yara/

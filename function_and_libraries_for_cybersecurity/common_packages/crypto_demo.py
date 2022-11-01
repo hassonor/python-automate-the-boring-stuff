@@ -8,3 +8,4 @@ enc_string = f_enc.encrypt(b"Password_2_be_kept_secret_!")
 
 print("ENCRYPTED PASSWORD: " + str(enc_string))
 print("DECRYPTED PASSWORD: " + str(f_enc.decrypt(enc_string)))
+f
