@@ -20,3 +20,8 @@ https://pypi.org/project/psutil/
 
 * https://yara.readthedocs.io/en/stable/yarapython.html
 * https://pypi.org/project/yara/
+
+## Socket
+
+* https://docs.python.org/3/library/socket.html#functions
+* Communicate bach to central dashboard -> PT
