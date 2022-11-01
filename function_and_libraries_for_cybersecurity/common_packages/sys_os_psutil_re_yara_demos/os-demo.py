@@ -15,7 +15,7 @@ with open(os.path.join(sys.path[0], "log.txt"), "r") as f:
 # os.remove("temp.txt")
 
 
-for root, dirs, files in os.walk(".", topdown=False):
+for root, dirs, files in os.walk("..", topdown=False):
     for name in files:
         print(os.path.join(root, name))
     for name in dirs:
