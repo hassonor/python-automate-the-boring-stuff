@@ -25,3 +25,20 @@ https://pypi.org/project/psutil/
 
 * https://docs.python.org/3/library/socket.html#functions
 * Communicate bach to central dashboard -> PT
+
+## Scapy
+
+* https://scapy.net/
+* https://pypi.org/project/scapy/
+* https://scapy.readthedocs.io/en/latest/installation.html
+* https://github.com/secdev/scapy
+* Network Packets Crafting / Sniffing
+
+## Requests
+
+* https://pypi.org/project/requests/
+
+## Beautifulsoup4
+
+* https://pypi.org/project/beatifulsoup4/
+* https://www.crummy.com/software/BeautifulSoup/bs4/doc
