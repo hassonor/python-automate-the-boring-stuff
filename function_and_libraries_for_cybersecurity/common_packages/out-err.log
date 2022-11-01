@@ -1,0 +1,9 @@
+ERROR: fata error - STDERR 1
+ERROR: fata error - STDERR 2
+ERROR: fata error - STDERR 3
+Traceback (most recent call last):
+  File "C:\Users\orhme\PycharmProjects\automate-the-boring-stuff\function_and_libraries_for_cybersecurity\common_packages\sys-demo.py", line 15, in <module>
+    uname = input("Enter Name: ")
+  File "C:\Python3.10.5\lib\codecs.py", line 319, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
