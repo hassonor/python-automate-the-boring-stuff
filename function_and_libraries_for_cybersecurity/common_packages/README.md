@@ -42,3 +42,10 @@ https://pypi.org/project/psutil/
 
 * https://pypi.org/project/beatifulsoup4/
 * https://www.crummy.com/software/BeautifulSoup/bs4/doc
+* Can provide local html file
+* Requests.get to pull in external
+* Parsers:
+    * html.parser
+    * lxml
+    * lxml-xml
+    * html5lib
